@@ -19,6 +19,7 @@ def monopoly_with_second_tier
 	monopoly = {}
 	monopoly[:railroads] = {}
   monopoly[:railroads] [:peices] = 4
+  monopoly[:railroads] [:peices] = 4
 
 
 end
