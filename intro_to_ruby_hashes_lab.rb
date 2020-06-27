@@ -38,7 +38,7 @@ def monopoly_with_third_tier
   monopoly[:railroads] [:name] [:reading_railroad] = {}
   monopoly[:railroads] [:name] [:pennsylvania_railroad] = {}
   monopoly[:railroads] [:name] [:b_and_o_railroad] = {}
-  monopoly[:railroads] [:name] [:pennsylvania_railroad] = {}
+  monopoly[:railroads] [:name] [:shortline] = {}
 
 end
 
